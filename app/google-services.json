@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "139834284180",
+    "firebase_url": "https://mychating-40cd3.firebaseio.com",
+    "project_id": "mychating-40cd3",
+    "storage_bucket": "mychating-40cd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139834284180:android:5cbd6a445c1d6a63",
+        "android_client_info": {
+          "package_name": "com.example.acer.mychating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139834284180-vvjl71cef3f2o0hqnlirq5uep0u2a0os.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.mychating",
+            "certificate_hash": "b29e0e36ba8f5605e674ca4e744c3cfb6c41c180"
+          }
+        },
+        {
+          "client_id": "139834284180-1ilemm0tkq2se69d5m6j8df0rajkflp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEoFfUpKavOxOJBaG9N-doTZ2Sp7gaYS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139834284180-1ilemm0tkq2se69d5m6j8df0rajkflp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
